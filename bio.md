@@ -1,5 +1,7 @@
 Bio File
 
+Adding more info
+
 Hobbies:
 Movies
 Video Games
